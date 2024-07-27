@@ -106,3 +106,6 @@ This will start a local server at \`http://127.0.0.1:5000/\`. Ignore any errors 
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
+## License
+
+This project is licensed under the MIT License.
